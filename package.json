@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Unit test practice using the AAA pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen-Adom/testing-practice.git"
+  },
+  "author": "alaska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephen-Adom/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Stephen-Adom/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
